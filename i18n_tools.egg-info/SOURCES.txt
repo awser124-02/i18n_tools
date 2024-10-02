@@ -1,0 +1,8 @@
+setup.py
+i18n_tools/__init__.py
+i18n_tools/trans.py
+i18n_tools.egg-info/PKG-INFO
+i18n_tools.egg-info/SOURCES.txt
+i18n_tools.egg-info/dependency_links.txt
+i18n_tools.egg-info/entry_points.txt
+i18n_tools.egg-info/top_level.txt
